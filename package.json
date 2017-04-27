@@ -1,0 +1,19 @@
+{
+  "name": "liaoliao",
+  "version": "1.0.0",
+  "description": "一个聊天室",
+  "main": "index.js",
+  "scripts": {
+    "test": "no"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "ajax",
+    "聊天"
+  ],
+  "author": "maozz",
+  "license": "ISC"
+}

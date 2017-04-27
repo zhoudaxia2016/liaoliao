@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <title>liaoliao_Maozz聊天室</title>
+  <link href="/css/login.css" rel="stylesheet">
+  <link href="/css/common.css" rel="stylesheet">
+  <script src="/js/login.js"></script>
+</head>
+<body>
+  <form class="login" action="/login" autocomplete="off" method="post">
+    <input class="username" name="username" type="text" placeholder="你叫什么名字">
+
+    <div class="avatars"> 
+      <h3>选择一个头像<h3>
+      <% for(var i = 1; i <= avatar_number; i++){ %>
+      <div class="item">
+        <input type="radio" value="<%=i%>" id="radio<%=i%>" name="avatar"><label for="radio<%=i%>"><img src="/images/<%=i%>.png"></label>
+      </div>
+      <% } %>
+    </div>
+
+    <input class="submit" type="submit" value="去撩撩">
+  </form>
+</body>
+</html>

@@ -1,0 +1,42 @@
+.login{
+  width: 80%;
+  margin: 100px auto;
+  padding: 10px;
+  background: #415f9d;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.login>*{
+  margin-bottom: 10px;
+}
+
+.username{
+  line-height: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.avatars h3{
+  color: #ddd;
+}
+
+.item{
+  display: inline-block;
+  margin: 10px;
+}
+
+.item img{
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+}
+
+.submit{
+  padding: 5px;
+  border-radius: 2px;
+  border: none;
+  background: #a2d5f2;
+  font-weight: bold;
+  color: #444;
+}
