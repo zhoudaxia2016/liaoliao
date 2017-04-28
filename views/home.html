@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>liaoliao_Maozz聊天室</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+  <link href="/css/common.css" rel="stylesheet">
+  <link href="/css/home.css" rel="stylesheet">
+  <script src="/js/send.js"></script>
+</head>
+<body>
+  <div class="liaoliao">
+    <div class="header">
+      <h2>liaoliao</h2>
+      <div class="user">
+        <div class="welcome"><%=username%></div>
+        <img class="avatar user-avatar" src="/images/<%=avatar%>.png">
+      </div>
+    </div>
+
+    <form class="send-words">
+      <input type="text" name="words" id="words">
+      <input type="submit" class="submit" value="发送">
+    </form>
+
+    <div class="wordlist">
+    </div>
+  </div>
+</body>
+</html>

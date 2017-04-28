@@ -6,3 +6,15 @@ input[type=text]{
   padding: 4px;
   text-indent: 1em;
 }
+input:focus{
+  outline: none;
+}
+
+.submit{
+  padding: 5px;
+  border-radius: 2px;
+  border: none;
+  background: #a2d5f2;
+  font-weight: bold;
+  color: #444;
+}
