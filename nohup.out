@@ -1,0 +1,839 @@
+Fri, 28 Apr 2017 13:49:46 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at server.js:59:9
+Example app listening at http://:::8004
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+Fri, 28 Apr 2017 13:50:10 GMT express deprecated res.send(status): Use res.sendStatus(status) instead at server.js:97:7
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
+TypeError: Cannot read property 'last' of undefined
+    at /root/mysite/liaoliao/server.js:102:18
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:137:13)
+    at Route.dispatch (/root/mysite/liaoliao/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/root/mysite/liaoliao/node_modules/express/lib/router/layer.js:95:5)
+    at /root/mysite/liaoliao/node_modules/express/lib/router/index.js:281:22
+    at Function.process_params (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:335:12)
+    at next (/root/mysite/liaoliao/node_modules/express/lib/router/index.js:275:10)
+    at SendStream.error (/root/mysite/liaoliao/node_modules/serve-static/index.js:121:7)
+    at emitOne (events.js:96:13)
