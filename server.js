@@ -19,7 +19,7 @@ function Words(user_id,w){
 // username： 用户名
 //   avatar： 头像名字
 //     last： 获得的最后一条信息（用来判断是否需要发送信息到该用户）
-function User(username,avatar,last){
+function User(username,avatar,last,users){
   this.username = username;
   this.avatar = avatar;
   this.id = id++;
@@ -53,6 +53,13 @@ function getUserMsg(wl,users){
     ret.push({'username':user.username,'avatar':user.avatar,'words':wl[i].w});
   }
   return ret;
+}
+
+// 通知用户列表更新了
+function change(users){
+  for (var i=0, l=users.length; i<l; i++){
+    users[i].ul_changed = true;
+  }
 }
 
 var avatar_number;
@@ -98,6 +105,7 @@ app.post('/login',function(req,res){
   else{
     user = new User(req.body.username,req.body.avatar,wordlist.length);
     users.push(user);
+    change(users);
     req.session.user_id = user.id;
   }
 
@@ -126,11 +134,24 @@ app.get('/update',function(req,res){
   }
 });
 
+// 获取所有用户
+app.get('/allusers',function(req,res){
+  var user = getUser(req.session.user_id,users);
+  if (user.ul_changed){
+    user.ul_changed = false;
+    res.json(users);
+  }
+  else{
+    res.json(null);
+  }
+});
+
 // 退出
 app.get('/logout',function(req,res){
   removeUser(req.session.user_id,users);
   delete req.session.user_id;
-  res.send(200);
+  change(users);
+  res.send();
 });
 
 

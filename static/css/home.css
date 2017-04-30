@@ -3,6 +3,7 @@
 }
 body{
   background: #415068;
+  height: 100%;
 }
 
 .header{
@@ -12,9 +13,33 @@ body{
 h2{
   text-align: center;
   float: left;
-  width: 100px;
+  width: 120px;
   line-height: 50px;
   color: #fff;
+  font-size: 20px;
+  position: relative;
+}
+
+.users{
+  position: absolute;
+  top: 100%;
+  left: 0;
+  max-width: 200px;
+  background: #141829;
+  opacity: 0.9;
+  padding: 0 10px;
+}
+.user-item{
+  border-top: #ddd solid 3px;
+}
+.users .avatar{
+  margin-top: 10px;
+  margin-bottom: 0;
+}
+.users .un{
+  margin-top: 0px;
+  line-height: 24px;
+  word-wrap: break-word;
 }
 
 .user-avatar{
@@ -34,6 +59,9 @@ h2{
   line-height: 50px;
   color: #ddd;
   margin-right: 10px;
+  overflow: hidden;
+  max-width: 150px;
+  height: 50px;
 }
 .avatar{
   width: 40px;
@@ -51,7 +79,7 @@ h2{
 }
 
 #words{
-  width: 75%;
+  width: 60%;
   height: 50%;
   margin: 10px;
   background: #fff;
@@ -61,16 +89,24 @@ h2{
   border: 1px solid #415f9d;
 }
 
+.logout,
 .submit{
   padding: 5px 10px;
   color: #fff;
   background: #21294c
+}
+.submit{
+}
+.logout{
+  background: #afa;
+  margin-left: 10px;
 }
 
 .wordlist{
   width: 100%;
   overflow: auto;
   margin-bottom: 50px;
+  height: 400px;
 }
 .item{
   margin: 20px;
@@ -92,11 +128,10 @@ h2{
 }
 
 .words{
-  width: 100%;
   margin-top: 10px;
   background: #fff;
   border-radius: 5px;
   font-size: 16px;
-  padding: 5px;
+  padding: 10px;
   word-wrap:break-word;
 }
